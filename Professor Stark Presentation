@@ -1,0 +1,27 @@
+Notes:
+
+Some stochastic models for seismicity include:
+1) poisson
+2) gamma renewel 
+3) weibull
+4) lognormal
+5) normal
+6) double exponentia;
+7) ETAS: Epidemic Type After Shock, the idea is that there is a background process but that process can be disrupted by an event that in turn causes a number of other processes. 
+8) brownian passage time: idea that an earthquake happens at some random time
+
+How did scientists come up with the theory behing earthquake predictions?
+They made maps of the faults, identified fault segments with slip rates, did some geology, distinguished between long term movements vs. earthquake movements, drew random relationships between fault areas, categorized recorded earthquakes, fit 3 models of stochastic models for earhquakes and combined them, etc. 
+
+This analysis led to a number but none of the standard interpretation of probability applied. In addition, there was not enough data to test whether the analyis was correct.
+
+Side Note: spending time and money into creating unreliable models for predicting earthquakes distracts from what the we really need to worry about when it comes to earthquakes, being prepared and educated.
+
+Earthquake probability has inaccurately been explained using a casino game metaphor. One researcher has used an urn full of black and white marbles to desribe earthquakes. However, the stochastic model is actually NOT a good model for eathquakes. There is no statistical evidence and the model does not fit the data.
+
+There are many wrongful assumptions people make when creating probabiliy models. It really does not make any sense to model earthquakes using the urn model.
+
+Examples of wrongful assumptions:
+1) every list of numbers has a mean, not every list of numbers is random
+2) 60% of all babies born are Asian, this does not mean a couple has a 60% chance of having an asian baby.
+
